@@ -39,9 +39,6 @@
 ## 📝 Exemplo de Template
 # 🚀 Como Criar uma Stack no AWS CloudFormation
 
-Este README explica os **passos práticos** para criar, atualizar e deletar stacks usando o AWS CloudFormation.  
-
----
 
 ## 📌 O que é uma Stack?
 - Uma **Stack** é o conjunto de recursos da AWS criado e gerenciado pelo CloudFormation a partir de um **template** (JSON ou YAML).  
