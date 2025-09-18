@@ -36,7 +36,7 @@
 
 ---
 
-## 📝 Exemplo de Template
+
 # 🚀 Como Criar uma Stack no AWS CloudFormation
 
 
